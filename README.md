@@ -8,3 +8,6 @@ Simples, pegue a pasta styles e coloque no seu workspace
 
 # Recomendação
 Ajude a evoluir esta iniciativa.
+
+# Beta
+Ainda em andamento...
